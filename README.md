@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/941272077867044914/1079664191138443274/2022-11-15_200138.png" height="175px"/></a>
 
 <h1 align="center"> Oidaho </h1>
 
