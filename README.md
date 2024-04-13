@@ -5,9 +5,6 @@
     <a href="https://github.com/Oidaho?tab=followers">
         <img src="https://img.shields.io/github/followers/Oidaho?label=Followers&style=social" alt="GitHub Badge">
     </a>
-    <br>
-    <br>
-    Oidaho 
 </h1>
 
 <div align="center">
