@@ -20,9 +20,17 @@
 <div align="center">
     <h3> 📝 About me </h3>
 </div>
-<div align="center">
-    Тут чота про меня
+
+<div align="justify">
+    🔥<b>My name is Ruslan Bashinskii and I am a passionate Python programmer.</b><br> 
+    My passion for technology has led me not only to classical development, but also in some places encourages me to study DevOps and DevSecOps, which helps me better understand the development and security processes in IT. <br><br>
+    🎓<b>I am a student at the Institute of Mathematics and Computer Technologies of the Far Eastern Federal University.</b><br> 
+    In this university I receive an education in the field of computer science. My current job at LLC "EXBO-NORTH" as a technical specialist in the community department allows me to put my skills into practice and interact with people from different fields of activity. <br><br>
+    ⚙️<b>Besides work and study, in my free time I am also actively interested in Backend development and server clustering.</b><br> 
+    These fields attract me because of their complexity and the opportunity to constantly learn something new. I believe that continuous development and learning are the keys to success in the IT industry. And the key not only to my personal success, but also to the entire information technology industry. <br><br>
 </div>
+
+
 
 ---
 
