@@ -24,7 +24,18 @@
     Тут чота про меня
 </div>
 
-<br>
+---
+
+<div align="center">
+    <h3> 📈 Statistics </h3>
+</div>
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=Oidaho&theme=omni&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=Oidaho&show_icons=true&theme=omni&border_radius=20&hide_border=true&card_width=700" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oidaho&show_icons=true&theme=omni&border_radius=20&hide_border=true&card_width=700" alt="GitHub Stats">
+</div>
+
+---
 
 <div align="center">
     <h3> 🛠️ Languages and Tools </h3>
@@ -45,18 +56,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="6%" height="6%"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="6%" height="6%"/>&nbsp;    
 </div>
-
-<br>
-
-<div align="center">
-    <h3> 📈 Statistics </h3>
-</div>
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=Oidaho&theme=jolly&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api?username=Oidaho&show_icons=true&theme=jolly&border_radius=20&hide_border=true&card_width=700" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oidaho&show_icons=true&theme=jolly&border_radius=20&hide_border=true&card_width=700" alt="GitHub Stats">
-</div>
-
 
 
 
