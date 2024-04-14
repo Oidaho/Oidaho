@@ -15,7 +15,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/ab/0c/06/ab0c066d218796bb32ed743e7e05f910.jpg" width="100%">
+    <img src="https://github.com/Oidaho/Oidaho/assets/76991612/4e573032-39c7-4acd-aba2-4eb8a805ed85" width="100%">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=6000&color=ff64da&center=true&vCenter=true&random=false&width=800&lines=%E9%97%87%E3%81%8C%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E3%80%81%E3%81%9D%E3%82%8C%E3%81%AF%E3%81%84%E3%81%A4%E3%81%A7%E3%82%82%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82" alt="© うちはマダラ">
 </div>
 
