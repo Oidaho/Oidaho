@@ -1,9 +1,16 @@
 <h1 align="center"> 
-    <a href="https://github.com/Oidaho/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=Oidaho">
+    <a href="https://vk.com/oidaho">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Ruslan%20Bashinskii-ff64da?style=flat-square&logo=vk&logoColor=white&label=VK&link=https%3A%2F%2Fvk.com%2Foidaho">
+    </a>
+    <a href="https://t.me/Oidaho">
+        <img alt="Static Badge" src="https://img.shields.io/badge/%40Oidaho-ff64da?style=flat-square&logo=telegram&logoColor=white&label=Telegram&link=https%3A%2F%2Ft.me%2FOidaho">
+    </a>
+    <br>
+    <a href="https://github.com/Oidaho">
+        <img src="https://komarev.com/ghpvc/?username=Oidaho&color=ff64da&style=flat-square&base=1000">
     </a>
     <a href="https://github.com/Oidaho?tab=followers">
-        <img src="https://img.shields.io/github/followers/Oidaho?label=Followers&style=social" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/followers/Oidaho?label=Followers&style=flat-square&color=ff64da" alt="GitHub Badge">
     </a>
 </h1>
 
