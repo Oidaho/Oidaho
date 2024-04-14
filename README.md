@@ -50,6 +50,19 @@
 ---
 
 <div align="center">
+    <h3> ⭐ Favorite repos </h3>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=STALCRAFT-FUNCKA&repo=TOASTER&show_icons=true&border_radius=20&theme=omni&hide_border=true&show_owner=true" alt="TOASTER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=STALCRAFT-FUNCKA&repo=WATCHMAN&show_icons=true&border_radius=20&theme=omni&hide_border=true&show_owner=true" alt="WATCHMAN">
+    <br>
+    <!-- Add mode repos -->
+</div>
+
+---
+
+<div align="center">
     <h3> 🛠️ Languages and Tools </h3>
 </div>
 <div align="center">
