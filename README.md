@@ -1,15 +1,15 @@
 <h1 align="center"> 
-    <a href="https://vk.com/oidaho">
+    <a href="https://vk.com/oidaho" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/Ruslan%20Bashinskii-ff64da?style=flat-square&logo=vk&logoColor=white&label=VK&link=https%3A%2F%2Fvk.com%2Foidaho">
     </a>
-    <a href="https://t.me/Oidaho">
+    <a href="https://t.me/Oidaho" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/%40Oidaho-ff64da?style=flat-square&logo=telegram&logoColor=white&label=Telegram&link=https%3A%2F%2Ft.me%2FOidaho">
     </a>
     <br>
-    <a href="https://github.com/Oidaho">
+    <a href="https://github.com/Oidaho" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=Oidaho&color=ff64da&style=flat-square&base=1000">
     </a>
-    <a href="https://github.com/Oidaho?tab=followers">
+    <a href="https://github.com/Oidaho?tab=followers" target="_blank">
         <img src="https://img.shields.io/github/followers/Oidaho?label=Followers&style=flat-square&color=ff64da" alt="GitHub Badge">
     </a>
 </h1>
@@ -54,10 +54,10 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/STALCRAFT-FUNCKA/TOASTER">
+    <a href="https://github.com/STALCRAFT-FUNCKA/TOASTER" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=STALCRAFT-FUNCKA&repo=TOASTER&show_icons=true&border_radius=20&theme=omni&hide_border=true&show_owner=true" alt="TOASTER">
     </a>
-    <a href="https://github.com/STALCRAFT-FUNCKA/WATCHMAN">
+    <a href="https://github.com/STALCRAFT-FUNCKA/WATCHMAN" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=STALCRAFT-FUNCKA&repo=WATCHMAN&show_icons=true&border_radius=20&theme=omni&hide_border=true&show_owner=true" alt="WATCHMAN">
     </a>
     <br>
