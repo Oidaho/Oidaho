@@ -54,8 +54,12 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=STALCRAFT-FUNCKA&repo=TOASTER&show_icons=true&border_radius=20&theme=omni&hide_border=true&show_owner=true" alt="TOASTER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=STALCRAFT-FUNCKA&repo=WATCHMAN&show_icons=true&border_radius=20&theme=omni&hide_border=true&show_owner=true" alt="WATCHMAN">
+    <a href="https://github.com/STALCRAFT-FUNCKA/TOASTER">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=STALCRAFT-FUNCKA&repo=TOASTER&show_icons=true&border_radius=20&theme=omni&hide_border=true&show_owner=true" alt="TOASTER">
+    </a>
+    <a href="https://github.com/STALCRAFT-FUNCKA/WATCHMAN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=STALCRAFT-FUNCKA&repo=WATCHMAN&show_icons=true&border_radius=20&theme=omni&hide_border=true&show_owner=true" alt="WATCHMAN">
+    </a>
     <br>
     <!-- Add mode repos -->
 </div>
