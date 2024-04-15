@@ -15,8 +15,12 @@
 </h1>
 
 <div align="center">
-    <img src="https://github.com/Oidaho/Oidaho/assets/76991612/4e573032-39c7-4acd-aba2-4eb8a805ed85" width="100%">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=6000&color=ff64da&center=true&vCenter=true&random=false&width=800&lines=%E9%97%87%E3%81%8C%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E3%80%81%E3%81%9D%E3%82%8C%E3%81%AF%E3%81%84%E3%81%A4%E3%81%A7%E3%82%82%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82" alt="© うちはマダラ">
+    <a href="#">
+        <img src="https://github.com/Oidaho/Oidaho/assets/76991612/4e573032-39c7-4acd-aba2-4eb8a805ed85" width="100%">
+    </a>
+    <a href="#">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=6000&color=ff64da&center=true&vCenter=true&random=false&width=800&lines=%E9%97%87%E3%81%8C%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E3%80%81%E3%81%9D%E3%82%8C%E3%81%AF%E3%81%84%E3%81%A4%E3%81%A7%E3%82%82%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82" alt="© うちはマダラ">
+    </a>
 </div>
 
 ---
@@ -42,9 +46,15 @@
     <h3> 📈 Statistics </h3>
 </div>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Oidaho&theme=omni&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api?username=Oidaho&show_icons=true&theme=omni&border_radius=20&hide_border=true&card_width=700" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oidaho&show_icons=true&theme=omni&border_radius=20&hide_border=true&card_width=700" alt="GitHub Stats">
+    <a href="#">
+        <img src="https://streak-stats.demolab.com?user=Oidaho&theme=omni&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700" alt="GitHub Streak">
+    </a>
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=Oidaho&show_icons=true&theme=omni&border_radius=20&hide_border=true&card_width=700" alt="GitHub Stats">
+    </a>
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oidaho&show_icons=true&theme=omni&border_radius=20&hide_border=true&card_width=700" alt="GitHub Stats">
+    </a>
 </div>
 
 ---
