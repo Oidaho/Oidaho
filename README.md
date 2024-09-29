@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-    <h3> 🛠️ Languages and Tools </h3>
+    <h3> 🛠️ Languages, Tools and Technologies </h3>
 </div>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="6%" height="6%"/>&nbsp;
