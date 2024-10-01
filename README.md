@@ -78,6 +78,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="6%" height="6%"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="6%" height="6%"/>&nbsp;    
 </div>
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-plain.svg" title="Poetry" alt="Poetry" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="Postman" width="6%" height="6%"/>&nbsp;
+</div>
 
 
 
