@@ -3,12 +3,12 @@
     <a href="#">
         <img src="https://streak-stats.demolab.com?user=Oidaho&theme=apprentice&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700" alt="GitHub Streak">
     </a>
-    <a href="#">
+    <!-- <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=Oidaho&show_icons=true&theme=apprentice&border_radius=20&hide_border=true&card_width=700" alt="GitHub Stats">
     </a>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oidaho&show_icons=true&theme=apprentice&border_radius=20&hide_border=true&card_width=700" alt="GitHub Stats">
-    </a>
+    </a> -->
 </div>
 
 ---
